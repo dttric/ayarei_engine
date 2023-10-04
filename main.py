@@ -5,7 +5,7 @@ import math as m
 from map import world_map
 from drawing import Drawing
 from tkinter import messagebox
-messagebox.showinfo('Добро Пожаловать в AyaRei Engine 1.0!','Добро пожаловать!\nЯ тебя ждал\nЯ общал конфигуратор но его не будет\nПоэтому прочти README.md')
+messagebox.showinfo('я забил на поддержку и удалил описание\nключи блоков остались в игре')
 pg.init()
 dis = pg.display.set_mode((WIDTH, HEIGHT))
 pg.display.set_caption("аярей енжин")
