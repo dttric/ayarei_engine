@@ -1,4 +1,4 @@
-<h1>АяРей Engine 1.0</h1>
+<h1>Ayarei Engine 1.0</h1>
 <pre>
 doom-like движок для pygame
 все добавляется в исходный код
